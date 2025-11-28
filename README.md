@@ -1,7 +1,7 @@
 # SecureChat - Encrypted Chat System
 
-**Student:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
+**Student:** Navaira Azmat
+**Roll Number:** i221039
 **GitHub:** https://github.com/Navairaa/securechat-skeleton
 
 ## Project Overview
